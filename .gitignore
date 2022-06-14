@@ -5,7 +5,10 @@
 /tmp
 /out-tsc
 /bazel-out
-
+/.scannerwork
+/coverage
+/test_results
+/reports
 # Node
 /node_modules
 npm-debug.log

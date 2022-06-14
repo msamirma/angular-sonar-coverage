@@ -1,6 +1,7 @@
 # SonarNgPlaygroud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+https://github.com/SonarSource/sonar-training-examples/tree/master/angular
 
 ## Development server
 
